@@ -2,7 +2,7 @@
 Hello,
 #                     🌻**This is Arya Varma**
 
-- 📚 Currently pursuing Master of Computer Application(MCA'22) from Mumbai University.
+- 📚 Currently pursuing Master of Computer Application(2022) from Mumbai University.
 - 👩Completed my Bachelor of Science in Computer Science(2017-2020) from Mumbai University.
 - 📍 Currently based in Mumbai, India. 🇮🇳
 
@@ -16,7 +16,6 @@ Hello,
 **Interest in fields like:**
 
 - Network Security
-- AIML
 - Data science
 
 **Love to:**
