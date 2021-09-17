@@ -11,7 +11,7 @@ Hello,
 -  SW: Eclipse, Visual Studio, Netbeans, R-Studio
 
 **Basics**
-- Excel, MSword, PowerPoint.
+- MSoffice, LibreOffice.
 
 **Interest in fields like:**
 
