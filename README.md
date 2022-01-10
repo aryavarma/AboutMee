@@ -15,6 +15,7 @@ Hello,
 
 **Interest in fields like:**
 
+- Software Engineering
 - Network Security
 - Data science
 
