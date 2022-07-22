@@ -1,19 +1,20 @@
 # AboutMe
 Hello,
-#                     🌻**This is Arya Varma**
+#                     🌻**Arya Varma here**
 
 - 📚 Currently pursuing Master of Computer Application(2022) from Mumbai University.
 - 👩Completed my Bachelor of Science in Computer Science(2017-2020) from Mumbai University.
 - 📍 Currently based in Mumbai, India. 🇮🇳
 
 **Tools and Languages:**
--  Html, CSS, pythonC, Csharp, Java, Php, JS, Mysql
+-  Html, CSS, python, C#, Java, JS, Mysql, figma
 -  SW: Eclipse, Visual Studio, Netbeans, R-Studio
+-  Exploring: Azure, MS-SQL, .Net Framework
 
 **Basics**
-- MSoffice, LibreOffice.
+- MS-office, LibreOffice.
 
-**Interest in fields like:**
+**Interested Fields**
 
 - Software Engineering
 - Network Security
@@ -21,9 +22,8 @@ Hello,
 
 **Love to:**
 
-- 📖read Non-Fiction, fiction books, and articles
+- 📖read books, articles.
 - 🍿Watch Movies
-- 🚴🏻‍♀️Cycling
 
 **Languages that I can speak**
 - English
